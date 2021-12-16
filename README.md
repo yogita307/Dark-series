@@ -1,1 +1,1 @@
-Here is a main page of mario club
+Here is the home page of mario club
